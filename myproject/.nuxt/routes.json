@@ -1,0 +1,16 @@
+[
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\pc1\\\\Desktop\\\\nuxtApp\\\\myproject\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_fae9f33a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\pc1\\\\Desktop\\\\nuxtApp\\\\myproject\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_884c94e4"
+  }
+]
